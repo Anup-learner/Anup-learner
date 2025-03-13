@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anup-learner
+- 👋 Hi, I’m @Anup
 - 👀 I’m interested in programming,video editing
 - 🌱 I’m currently learning html,css,javascript,c programing
 - 💞️ I’m looking to collaborate on facebook and email
